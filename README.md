@@ -9,3 +9,6 @@
 
 A VQA system
 takes as input an image and a free-form, open-ended, naturallanguage question about the image and produces a naturallanguage answer as the output. 
+
+
+Data set link---http://www.iitp.ac.in/~ai-nlp-ml/resources/data/MCVQA-data.zip
